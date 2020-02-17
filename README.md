@@ -1,0 +1,2 @@
+# geoauto
+Geotourist auototests
